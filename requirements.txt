@@ -2,8 +2,4 @@ streamlit
 pandas
 numpy
 jpholiday
-openpyxl
-python-docx
-requests
-matplotlib
-scikit-learn
+ortools
