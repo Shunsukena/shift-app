@@ -157,7 +157,7 @@ with tab2:
     st.session_state["total_work_hours"] = total_work_hours
 
 with tab3:
-    st.subheader("⏰シフト種別の設定（保存忘れずに）")
+    st.subheader("⏰シフト種別の設定　（保存忘れずに）")
 
     FIXED_SHIFT = {"label": "日勤", "hours": 8}  # 固定シフト
 
