@@ -1,5 +1,7 @@
 streamlit
 pandas
 numpy
-jpholiday
 ortools
+jpholiday
+openpyxl
+matplotlib
